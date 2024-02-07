@@ -7,7 +7,7 @@ public class CodekataProblem {
     }
 
     public static int myProblem2(int i, int j){
-        return i*j;
+        return i;
     }
 
     public static int myProblem3(int i, int j){
